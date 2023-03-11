@@ -1,5 +1,16 @@
 # M5 - Pet Kare
 
+<h3><strong>Proposta:</strong></h3>
+<p>Esse projeto tem uma aplicação simples para ajudar donos de Pet Shop a guardar dados de animais. Esta sendo utilizado:</p>
+
+- Conceitos de Relacionamento e Serializers.
+- Diagrama de Entidade e Relacionamento.
+- Relacionamentos entre pets, grupos e características.
+- Serializadores para validação, entrada e saída de dados para pets, grupos e características.
+- Views de criação, listagem, filtragem, atualização e deleção de pets, recebendo informações de três tabelas de uma vez, com filtro na listagem.
+- Tratamento de exceção nas rotas de criação, atualização, filtragem e deleção.
+<hr noshade />
+
 ## Como rodar os testes localmente
 
 - Verifique se os pacotes pytest e/ou pytest-testdox estão instalados globalmente em seu sistema:
