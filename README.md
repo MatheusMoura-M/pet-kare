@@ -1,4 +1,4 @@
-# M5 - Pet Kare
+# Pet Kare
 
 <h3><strong>Proposta:</strong></h3>
 <p>Esse projeto tem uma aplicação simples para ajudar donos de Pet Shop a guardar dados de animais. Esta sendo utilizado:</p>
